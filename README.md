@@ -1,6 +1,7 @@
 # Deep_Learning_Workbooks
-environment setup with the purpose of connecting to google drive
+
+Coding Environment Setup on top of Google Drive
 
 Github: that’s a big file. Try again with a file smaller than 25MB
 
-Please see the saved files in Google drive with the account of nywenjiang@gmail.com
+Use the saved files in Google drive under the account of nywenjiang@gmail.com
