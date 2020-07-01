@@ -1,5 +1,7 @@
 # Deep-Learning-Workbooks
 
+ALL RIGHT RESERVED
+
 Coding Environment Setup on top of Google Drive
 
 Github: that’s a big file. Try again with a file smaller than 25MB
